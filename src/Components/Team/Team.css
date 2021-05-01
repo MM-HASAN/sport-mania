@@ -1,0 +1,16 @@
+.teamContainer {
+  background-color: #621a0a;
+}
+.btn-success a {
+  color: #fff;
+  text-decoration: none;
+}
+.leagueList {
+  background-color: chocolate;
+}
+.card {
+  width: 30%;
+  height: 30%;
+  float: left;
+  overflow: hidden;
+}

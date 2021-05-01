@@ -1,0 +1,69 @@
+.teamDetailImg {
+  background-image: ;
+}
+
+.bg-img {
+  position: relative;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%);
+}
+.leagueName {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  color: rgb(247, 242, 0);
+  font-size: 30px;
+  text-transform: uppercase;
+  transform: translate(-50%);
+  letter-spacing: 2px;
+}
+.infoDetails {
+  display: flex;
+  justify-content: space-between;
+  background-color: blue;
+  margin: 20px 0px 0px;
+  padding: 20px;
+  color: #fff;
+}
+.info {
+  color: #fff;
+  background-color: cadetblue;
+  padding: 20px;
+  border: 5px solid black;
+}
+.info h2 {
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+}
+.info p {
+  font-style: italic;
+  letter-spacing: 1px;
+}
+img.info-img {
+  width: 400px;
+  height: 300px;
+  border: 5px solid rgb(41, 37, 37);
+  border-radius: 5px;
+}
+.textDescription {
+  text-align: justify;
+  padding: 20px;
+  margin-top: 50px;
+}
+.socialIcon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.socialIcon a {
+  padding: 20px;
+}
+.svg-inline--fa {
+  font-size: 50px;
+  line-height: 100px;
+  width: 100px;
+  height: 100px;
+  color: purple;
+}

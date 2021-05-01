@@ -1,0 +1,12 @@
+.banner {
+  background-image: url("https://stillmedab.olympic.org/media/Photos/2012/08/10/Silver%20medalist%20Bjorn%20Otto%20of%20Germany%20_172366.jpg?interpolation=lanczos-none&resize=*:960");
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.banner h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 50px;
+  color: #fff;
+  padding-top: 150px;
+}
